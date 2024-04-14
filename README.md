@@ -20,7 +20,7 @@ The primary dataset used for this analysis is "vrinda store data analysis.xlsx" 
 
 ### Analysis
 
-
+<img src = "https://github.com/Gituservaish/E-commerce-sales-analysis-using-excel/blob/main/Analysis%20in%20excel.png" alt = "MLBC">
 
 ### Insights/Findings
 
