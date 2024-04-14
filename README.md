@@ -15,7 +15,7 @@ The primary dataset used for this analysis is "vrinda store data analysis.xlsx" 
 ### Operations performed
 
 - Data cleansing - data inspection, removal of empty/blank cells and null values.
-- Data Priocessing - established relationship between two columns and created new calculated colums.
+- Data Processing - established relationship between two columns and created new calculated colums.
 - Data Analysis - created pivot table and pivot chart to answer business related questions.
 
 ### Analysis
